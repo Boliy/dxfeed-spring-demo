@@ -1,0 +1,42 @@
+问题1：
+	参数symbol后缀：CXBITF,CXETHF,CXPLNX,CXBITS,AFX....等等
+	表示是什么意思(opol)
+问题2：
+	你们有没有常用的币对数据源？永远不会断的
+	数据源稳定性：
+		ATM/ETH:CXBITF在我之前刚接通的是有数据的
+		在2018-12-09~2018-12-10这两天突然没有数据了
+		请问你们的币对数据源,有哪几个是不稳定的？
+问题3：
+	目前我们用到了基础币是(USDT,ETH),其中,以下币对是没有数据源的：
+	BCH/USDT:CXPLNX
+	ABS/ETH:CXBITF
+    ABS/ETH:CXETHF
+    AUC/ETH:CXBITF
+    AUC/ETH:CXETHF
+    BCH/ETH:CXPLNX
+    CBT/ETH:CXBITF
+    CBT/ETH:CXETHF
+    CFI/ETH:CXBITF
+    CFI/ETH:CXETHF
+    CSX/ETH:CXBITF
+    CSX/ETH:CXETHF
+    DTA/ETH:CXBITF
+    DTA/ETH:CXETHF
+    MLN/ETH:CXBITF
+    MLN/ETH:CXETHF
+    REQ/ETH:CXBITF
+    REQ/ETH:CXETHF
+    SEE/ETH:CXBITF
+    SEE/ETH:CXETHF
+    TKN/ETH:CXBITF
+    TKN/ETH:CXETHF
+    WPR/ETH:CXBITF
+    WPR/ETH:CXETHF
+    WTC/ETH:CXBITF
+    WTC/ETH:CXETHF
+	请问是否以后都不会开启的？是否其它基础币的币对没有数据源的？
+问题4：
+	我们这边刷新connect 是1秒1次,是否对你们有影响,而导致connect断开？
+问题5：
+	数据源给我们提供的频率最快是多少秒更新一次？
